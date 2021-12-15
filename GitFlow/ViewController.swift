@@ -13,10 +13,14 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 <<<<<<< HEAD
         print("firstFeatureCommit")
+<<<<<<< HEAD
 =======
         print("secondCommit")
         // Do any additional setup after loading the view.
 >>>>>>> feature2
+=======
+        print("firstFeatureCommit2")
+>>>>>>> feature1
     }
 
 
