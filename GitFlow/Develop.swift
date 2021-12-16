@@ -8,5 +8,8 @@
 import Foundation
 
 class Develop{
-    
+    func parse() {
+        print("feature")
+        print("cherry")
+    }
 }
