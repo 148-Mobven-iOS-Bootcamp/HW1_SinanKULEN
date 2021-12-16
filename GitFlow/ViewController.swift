@@ -13,22 +13,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
        
         print("firstFeatureCommit")
-<<<<<<< Updated upstream
         
-        print("secondCommit")
-        
-        print("firstFeatureCommit2")
-    
-=======
-<<<<<<< HEAD
-=======
         print("secondCommit")
         // Do any additional setup after loading the view.
->>>>>>> feature2
-=======
         print("firstFeatureCommit2")
->>>>>>> feature1
->>>>>>> Stashed changes
     }
 
 
