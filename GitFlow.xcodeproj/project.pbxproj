@@ -13,6 +13,7 @@
 		1B4C72522767E5A300F9ED3C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4C72502767E5A300F9ED3C /* Main.storyboard */; };
 		1B4C72542767E5AA00F9ED3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1B4C72532767E5AA00F9ED3C /* Assets.xcassets */; };
 		1B4C72572767E5AA00F9ED3C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B4C72552767E5AA00F9ED3C /* LaunchScreen.storyboard */; };
+		1B95C25E276B752A00E6C4C5 /* Develop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B95C25D276B752A00E6C4C5 /* Develop.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1B4C72532767E5AA00F9ED3C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1B4C72562767E5AA00F9ED3C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1B4C72582767E5AA00F9ED3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B95C25D276B752A00E6C4C5 /* Develop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Develop.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1B4C724A2767E5A300F9ED3C /* AppDelegate.swift */,
 				1B4C724C2767E5A300F9ED3C /* SceneDelegate.swift */,
 				1B4C724E2767E5A300F9ED3C /* ViewController.swift */,
+				1B95C25D276B752A00E6C4C5 /* Develop.swift */,
 				1B4C72502767E5A300F9ED3C /* Main.storyboard */,
 				1B4C72532767E5AA00F9ED3C /* Assets.xcassets */,
 				1B4C72552767E5AA00F9ED3C /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				1B4C724F2767E5A300F9ED3C /* ViewController.swift in Sources */,
 				1B4C724B2767E5A300F9ED3C /* AppDelegate.swift in Sources */,
 				1B4C724D2767E5A300F9ED3C /* SceneDelegate.swift in Sources */,
+				1B95C25E276B752A00E6C4C5 /* Develop.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
